@@ -1,0 +1,14 @@
+G:\cyber seguridad\IP\Rocket\bin\Debug\net7.0\Rocket.exe
+G:\cyber seguridad\IP\Rocket\bin\Debug\net7.0\Rocket.deps.json
+G:\cyber seguridad\IP\Rocket\bin\Debug\net7.0\Rocket.runtimeconfig.json
+G:\cyber seguridad\IP\Rocket\bin\Debug\net7.0\Rocket.dll
+G:\cyber seguridad\IP\Rocket\bin\Debug\net7.0\Rocket.pdb
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.GeneratedMSBuildEditorConfig.editorconfig
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.AssemblyInfoInputs.cache
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.AssemblyInfo.cs
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.csproj.CoreCompileInputs.cache
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.dll
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\refint\Rocket.dll
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.pdb
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\Rocket.genruntimeconfig.cache
+G:\cyber seguridad\IP\Rocket\obj\Debug\net7.0\ref\Rocket.dll
